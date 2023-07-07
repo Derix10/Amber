@@ -1,13 +1,13 @@
 <h1> Amber </h1>
-<img align="left" src="https://github.com/Team01110/Amber/assets/109131845/ac166566-5347-42d1-9e38-0b5102fbbe74"
+<img align="left" src="https://github.com/Derix10/Amber/assets/109131845/91661ee1-7932-472c-931c-80b2775b53c9"
  width="150"/>
-  <img align="left" alt="lalit's Github Stats" src="https://github.com/Team01110/Amber/assets/109131845/fe14c85d-30dd-428f-95fc-af511b0824b2"
+  <img align="left" src="https://github.com/Derix10/Amber/assets/109131845/cf56a7cb-70f7-4a10-9b82-5f603b5b125a"
  width="150"/>
-<img align="left" alt="lalit's Github Stats" src="https://github.com/Team01110/Amber/assets/109131845/0889ec29-5db2-421a-a014-3f03c54b5477"
+<img align="left" src="https://github.com/Derix10/Amber/assets/109131845/1cb031fd-c370-4cb6-8bf4-902a5bed9b75"
  width="150"/>
 
- <img align="left" alt="lalit's Github Stats" src="https://github.com/Team01110/Amber/assets/109131845/85c5d9db-abc5-4303-9d1c-fdf60fa48d68"
+ <img align="left" src="https://github.com/Derix10/Amber/assets/109131845/9f64f182-13f1-4f95-a57b-d853eaf8542c"
  width="150"/>
- <img align="left" alt="lalit's Github Stats" src="https://github.com/Team01110/Amber/assets/109131845/07ea6919-a7ac-4f53-a536-ead5db232700"
+ <img align="left" src="https://github.com/Derix10/Amber/assets/109131845/4db4082e-fa22-4449-b239-fa545cc85bc8"
  width="150"/>
 
